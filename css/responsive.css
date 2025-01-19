@@ -1,1 +1,572 @@
-@media (min-width:992px){body .container{width:1120px;max-width:98vw}}@media only screen and (max-width:1100px) and (min-width:947px){.container,.container-md,.container-sm{max-width:100%!important}.fuelcomp-btnCard{left:-20px}.fuelcomp-cardBody{grid-template-columns:auto 250px 190px}}@media only screen and (max-width:946px) and (min-width:869px){.container,.container-md,.container-sm{max-width:100%!important}.fuelcomp-btnCard{left:-20px}.fuelcomp-rating-star>ul>li{font-size:14px}.fuelcomp-cardBody{grid-template-columns:auto 200px 180px}}@media screen and (max-width:600px){.fuelcomp-disclaimer>p{font-size:10px;line-height:12px;padding:2px 0 4px}.fuelcomp-disclaimer>p>img{width:16px}.fuelcomp-banner-content>h1{font-size:30px;margin:0}.fuelcomp-banner-content>p{font-size:12px;line-height:18px;margin:0;padding:0}.fuelcomp-banner-content>p>button.myBtn{font-size:12px}.fuelcomp-cardBonusTitle p::before{content:"";position:absolute;width:400px;height:1px;background:#c9c2c2;left:-210px;top:80px}.fuelcomp-trust-card>img{width:30px}.fuelcomp-trust-card{gap:4px}.fuelcomp-level{width:98px;height:19px;text-align:center;font-size:10px;font-weight:500;color:#fff;letter-spacing:0;padding:1px 0;position:absolute;clip-path:unset;z-index:1}.fuelcomp-trust-area{gap:4px;margin:8px 0 0}.fuelcomp-bonus-bottom-offer>p,.fuelcomp-bonus-bottom-offer>p>button.myBtn{font-size:8px}.fuelcomp-trust-card>p{font-size:10px}.fuelcomp-logoImg img{width:176px;top:-15px}.fuelcomp-cardBody{display:flex;align-items:center;width:100%;margin-right:0;flex-direction:column;border-bottom:0}.fuelcomp-ratingsWrapper{position:absolute;left:0;transform:translate(10px,110px);gap:0}.fuelcomp-cardBonusTitle p{font-size:18px;height:96px;position:relative;transform:translate(-10%,10px);top:5px}.fuelcomp-logoWrapper{width:50%;height:95px;border-bottom:1px solid #000}.fuelcomp-cardBonusTitle p>span,.fuelcomp-value,h2.fuelcomp-servicesTitle{font-size:20px}.fuelcomp-btnCard{font-size:13px;width:100%;height:44px;top:-18px;min-width:175px;transform:translate(-5%,0)}.fuelcomp-review-grid{width:105px}.fuelcomp-list-text>h3,.fuelcomp-rating-star>ul>li{font-size:14px}.fuelcomp-value>span{font-size:12px;color:#434343}.fuelcomp-disclaimer{margin-bottom:15px}.fuelcomp-servicesContext{padding:15px;border-radius:0}p.fuelcomp-wrapper-p{font-size:13px;line-height:20px;margin:15px 0 25px}.fuelcomp-list-text>p{font-size:12px;padding:8px 0;margin:0;line-height:17px}.fuelcomp-listIconWrap{gap:8px;margin-bottom:20px;padding:6px}.fuelcomp-iconPhoto{min-width:50px;height:46px}.fuelcomp-iconPhoto>img{width:32px;height:32px;transform:translateY(-16px)}.fuelcomp-list-table{padding:20px 0}.fuelcomp-aboutText{border-radius:0;padding:15px;margin:30px 0}.fuelcomp-aboutText>h2{font-size:20px;margin:10px 0 8px}.fuelcomp-aboutText>h3{font-size:15px;margin:15px 0 0}.fuelcomp-three-OfferCardWrap{position:relative;display:flex;align-items:center;justify-content:unset;gap:20px;width:100%;padding:0;flex-direction:column}.fuelcomp-topThree{padding-bottom:30px}.fuelcomp-footer{padding:30px 10px}.fuelcomp-footer-link>p{margin:12px 0}.fuelcomp-footer-link>ul{padding:0;list-style:none;display:flex;gap:14px;justify-content:center;flex-wrap:wrap}.fuelcomp-footer-link>ul>li>a{font-size:12px;line-height:24px}.fuelcomp-copyright{font-size:13px;line-height:16px;padding-top:0;padding-bottom:0;margin:0;word-spacing:0px}.fuelcomp-copyright>p{padding:0;margin:0}footer img.fuelcomp-footer-ico{max-width:140px}h2.fuelcomp-sub-title{font-size:24px}.fuelcomp-subpages-context>h5{font-size:14px;padding:8px 0}.fuelcomp-subpages-context>p{font-size:13px;font-weight:300;line-height:20px;padding-top:5px;padding-bottom:5px}}@media only screen and (max-width:868px) and (min-width:601px){.fuelcomp-disclaimer>p{font-size:10px;line-height:12px;padding:2px 30px 4px}.fuelcomp-disclaimer>p>img{width:16px}.fuelcomp-review-title{font-size:15px;font-weight:600}.fuelcomp-logoImg img{width:230px;height:116px;border-radius:3px 0 0 3px;object-fit:contain;position:relative;top:-15px;left:13%}.fuelcomp-banner-content>h1{font-size:34px;line-height:45px}.fuelcomp-banner-content>p{font-size:13px;line-height:20px;margin:0;padding:0}.fuelcomp-banner-content>p>button.myBtn,.fuelcomp-value>span{font-size:12px}.fuelcomp-bonus-bottom-offer>p,.fuelcomp-bonus-bottom-offer>p>button.myBtn{font-size:8px}.fuelcomp-cardBody{display:flex;align-items:center;width:100%;margin-right:0;flex-direction:column}.fuelcomp-ratingsWrapper{position:absolute;left:0;transform:translate(0,105px);gap:0;width:445px}.fuelcomp-cardBonusTitle p{font-size:20px;height:96px;position:relative;transform:translate(-8%,15px)}.fuelcomp-cardBonusTitle p::before{content:"";position:absolute;width:696px;height:1px;background:#c9c2c2;left:unset;top:79px;right:-83px}.fuelcomp-logoWrapper{height:95px;border-bottom:1px solid #000;width:50%}.fuelcomp-cardBonusTitle p>span{font-size:20px;font-weight:700}.fuelcomp-btnCard{font-size:13px;width:100%;height:44px;top:-18px;min-width:200px;transform:translateX(50px)}.fuelcomp-review-grid{width:190px}.fuelcomp-list-text>h3,.fuelcomp-rating-star>ul>li{font-size:14px}.fuelcomp-value,h2.fuelcomp-servicesTitle{font-size:20px}.fuelcomp-bonus-bottom-offer,.fuelcomp-disclaimer{margin-bottom:15px}.fuelcomp-servicesContext{padding:15px;border-radius:0}p.fuelcomp-wrapper-p{font-size:13px;line-height:20px;margin:15px 0 25px}.fuelcomp-list-text>p{font-size:12px;padding:8px 0;margin:0;line-height:17px}.fuelcomp-listIconWrap{gap:8px;margin-bottom:20px;padding:6px}.fuelcomp-iconPhoto{min-width:50px;height:46px}.fuelcomp-iconPhoto>img{width:32px;height:32px;transform:translateY(-16px)}.fuelcomp-list-table{padding:20px 0}.fuelcomp-aboutText{border-radius:0;padding:15px;margin:0 0 30px}.fuelcomp-aboutText>h2{font-size:20px;margin:10px 0 8px}.fuelcomp-aboutText>h3{font-size:15px;margin:15px 0 0}.fuelcomp-three-OfferCardWrap{position:relative;display:flex;align-items:center;justify-content:unset;gap:20px;width:100%;padding:0;flex-direction:column}.fuelcomp-topThree{padding-bottom:30px}.fuelcomp-footer{padding:30px 10px}.fuelcomp-footer-link>p{margin:12px 0}.fuelcomp-footer-link>ul{margin:0;padding:0;list-style:none;text-align:left}.fuelcomp-copyright{font-size:13px;line-height:16px;padding-top:0;padding-bottom:0;margin:0;word-spacing:0px}.fuelcomp-copyright>p{padding:0;margin:0}footer img.fuelcomp-footer-ico{max-width:140px}h2.fuelcomp-sub-title{font-size:24px}.fuelcomp-subpages-context>h5{font-size:14px;padding:8px 0}.fuelcomp-subpages-context>p{font-size:13px;font-weight:300;line-height:20px;padding-top:5px;padding-bottom:5px}}@media only screen and (max-width:360px) and (min-width:300px){.fuelcomp-review-grid{width:88px!important}.fuelcomp-btnCard{height:32px!important;font-size:11px!important}.fuelcomp-rating-star>ul>li{font-size:12px!important}.fuelcomp-cardBonusTitle p{height:105px;font-size:16px!important;transform:translate(-18%,10px)!important}.fuelcomp-logoImg img{width:158px!important}.fuelcomp-cardBonusTitle p::before{right:-4px!important}.fuelcomp-banner-content>h1{font-size:25px!important;margin:0}.fuelcomp-disclaimer>p,.fuelcomp-trust-card>p{font-size:8px!important}.fuelcomp-disclaimer>p{line-height:7px!important;padding:2px 0 6px}}@media only screen and (max-width:395px) and (min-width:300px){.fuelcomp-banner-content>h1{font-size:27px;margin:0}body::before{background:linear-gradient(109.6deg,rgb(0 0 0 / 83%) 11.2%,rgba(8,8,8,.781) 51.2%,rgb(0 0 0 / 86%) 98.6%)}.fuelcomp-cardBonusTitle p::before{content:"";position:absolute;width:100%;height:1px;background:#c9c2c2;left:unset;top:78px;right:-4px}.fuelcomp-review-title{font-size:13px}.fuelcomp-trust-card>img{width:24px}.fuelcomp-trust-card>p{font-size:9px}.fuelcomp-disclaimer>p{font-size:9px;line-height:8px;padding:2px 0 6px}.fuelcomp-cardBonusTitle p{font-size:17px;transform:translate(-14%,10px)}.fuelcomp-cardBonusTitle{width:100%;min-width:155px}.fuelcomp-cardBonusTitle p>span{font-size:18px}.fuelcomp-trust-card{gap:4px}.fuelcomp-review-grid{width:94px}.fuelcomp-btnCard{font-size:13px;width:100%;height:40px;top:-18px;min-width:fit-content;transform:translate(-5%,0);padding:0 10px}.fuelcomp-logoImg img{width:170px}}
+@media (min-width: 992px) {
+    body .container {
+      width: 1120px;
+      max-width: 98vw;
+    }
+  }
+  @media only screen and (max-width: 1100px) and (min-width: 947px) {
+    .container,
+    .container-md,
+    .container-sm {
+      max-width: 100% !important;
+    }
+    .fuelcomp-btnCard {
+      left: -20px;
+    }
+    .fuelcomp-cardBody {
+      grid-template-columns: auto 250px 190px;
+    }
+  }
+  @media only screen and (max-width: 946px) and (min-width: 869px) {
+    .container,
+    .container-md,
+    .container-sm {
+      max-width: 100% !important;
+    }
+    .fuelcomp-btnCard {
+      left: -20px;
+    }
+    .fuelcomp-rating-star > ul > li {
+      font-size: 14px;
+    }
+    .fuelcomp-cardBody {
+      grid-template-columns: auto 200px 180px;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .fuelcomp-disclaimer > p {
+      font-size: 10px;
+      line-height: 12px;
+      padding: 2px 0 4px;
+    }
+    .fuelcomp-disclaimer > p > img {
+      width: 16px;
+    }
+    .fuelcomp-banner-content > h1 {
+      font-size: 30px;
+      margin: 0;
+    }
+    .fuelcomp-banner-content > p {
+      font-size: 12px;
+      line-height: 18px;
+      margin: 0;
+      padding: 0;
+    }
+    .fuelcomp-banner-content > p > button.myBtn {
+      font-size: 12px;
+    }
+    .fuelcomp-cardBonusTitle p::before {
+      content: "";
+      position: absolute;
+      width: 400px;
+      height: 1px;
+      background: #c9c2c2;
+      left: -210px;
+      top: 80px;
+    }
+    .fuelcomp-trust-card > img {
+      width: 30px;
+    }
+    .fuelcomp-trust-card {
+      gap: 4px;
+    }
+    .fuelcomp-level {
+      width: 98px;
+      height: 19px;
+      text-align: center;
+      font-size: 10px;
+      font-weight: 500;
+      color: #fff;
+      letter-spacing: 0;
+      padding: 1px 0;
+      position: absolute;
+      clip-path: unset;
+      z-index: 1;
+    }
+    .fuelcomp-trust-area {
+      gap: 4px;
+      margin: 8px 0 0;
+    }
+    .fuelcomp-bonus-bottom-offer > p,
+    .fuelcomp-bonus-bottom-offer > p > button.myBtn {
+      font-size: 8px;
+      display: none;
+    }
+    .fuelcomp-trust-card > p {
+      font-size: 10px;
+    }
+    .fuelcomp-logoImg img {
+      width: 176px;
+      top: -15px;
+    }
+    .fuelcomp-cardBody {
+      display: flex;
+      align-items: center;
+      width: 100%;
+      margin-right: 0;
+      flex-direction: column;
+      border-bottom: 0;
+    }
+    .fuelcomp-ratingsWrapper {
+      position: absolute;
+      left: 0;
+      transform: translate(10px, 110px);
+      gap: 0;
+    }
+    .fuelcomp-cardBonusTitle p {
+      font-size: 18px;
+      height: 96px;
+      position: relative;
+      transform: translate(-10%, 10px);
+      top: 5px;
+    }
+    .fuelcomp-logoWrapper {
+      width: 50%;
+      height: 95px;
+      border-bottom: 1px solid #000;
+    }
+    .fuelcomp-cardBonusTitle p > span,
+    .fuelcomp-value,
+    h2.fuelcomp-servicesTitle {
+      font-size: 20px;
+    }
+    .fuelcomp-btnCard {
+      font-size: 13px;
+      width: 100%;
+      height: 44px;
+      top: -18px;
+      min-width: 175px;
+      transform: translate(-5%, 0);
+    }
+    .fuelcomp-review-grid {
+      width: 105px;
+    }
+    .fuelcomp-list-text > h3,
+    .fuelcomp-rating-star > ul > li {
+      font-size: 14px;
+    }
+    .fuelcomp-value > span {
+      font-size: 12px;
+      color: #434343;
+    }
+    .fuelcomp-disclaimer {
+      margin-bottom: 15px;
+    }
+    .fuelcomp-servicesContext {
+      padding: 15px;
+      border-radius: 0;
+    }
+    p.fuelcomp-wrapper-p {
+      font-size: 13px;
+      line-height: 20px;
+      margin: 15px 0 25px;
+    }
+    .fuelcomp-list-text > p {
+      font-size: 12px;
+      padding: 8px 0;
+      margin: 0;
+      line-height: 17px;
+    }
+    .fuelcomp-listIconWrap {
+      gap: 8px;
+      margin-bottom: 20px;
+      padding: 6px;
+    }
+    .fuelcomp-iconPhoto {
+      min-width: 50px;
+      height: 46px;
+    }
+    .fuelcomp-iconPhoto > img {
+      width: 32px;
+      height: 32px;
+      transform: translateY(-16px);
+    }
+    .fuelcomp-list-table {
+      padding: 20px 0;
+    }
+    .fuelcomp-aboutText {
+      border-radius: 0;
+      padding: 15px;
+      margin: 30px 0;
+    }
+    .fuelcomp-aboutText > h2 {
+      font-size: 20px;
+      margin: 10px 0 8px;
+    }
+    .fuelcomp-aboutText > h3 {
+      font-size: 15px;
+      margin: 15px 0 0;
+    }
+    .fuelcomp-three-OfferCardWrap {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: unset;
+      gap: 20px;
+      width: 100%;
+      padding: 0;
+      flex-direction: column;
+    }
+    .fuelcomp-topThree {
+      padding-bottom: 30px;
+    }
+    .fuelcomp-footer {
+      padding: 30px 10px;
+    }
+    .fuelcomp-footer-link > p {
+      margin: 12px 0;
+    }
+    .fuelcomp-footer-link > ul {
+      padding: 0;
+      list-style: none;
+      display: flex;
+      gap: 14px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .fuelcomp-footer-link > ul > li > a {
+      font-size: 12px;
+      line-height: 24px;
+    }
+    .fuelcomp-copyright {
+      font-size: 13px;
+      line-height: 16px;
+      padding-top: 0;
+      padding-bottom: 0;
+      margin: 0;
+      word-spacing: 0px;
+    }
+    .fuelcomp-copyright > p {
+      padding: 0;
+      margin: 0;
+    }
+    footer img.fuelcomp-footer-ico {
+      max-width: 140px;
+    }
+    h2.fuelcomp-sub-title {
+      font-size: 24px;
+    }
+    .fuelcomp-subpages-context > h5 {
+      font-size: 14px;
+      padding: 8px 0;
+    }
+    .fuelcomp-subpages-context > p {
+      font-size: 13px;
+      font-weight: 300;
+      line-height: 20px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  }
+  @media only screen and (max-width: 868px) and (min-width: 601px) {
+    .fuelcomp-disclaimer > p {
+      font-size: 10px;
+      line-height: 12px;
+      padding: 2px 30px 4px;
+    }
+    .fuelcomp-disclaimer > p > img {
+      width: 16px;
+    }
+    .fuelcomp-review-title {
+      font-size: 15px;
+      font-weight: 600;
+    }
+    .fuelcomp-logoImg img {
+      width: 230px;
+      height: 116px;
+      border-radius: 3px 0 0 3px;
+      object-fit: contain;
+      position: relative;
+      top: -15px;
+      left: 13%;
+    }
+    .fuelcomp-banner-content > h1 {
+      font-size: 34px;
+      line-height: 45px;
+    }
+    .fuelcomp-banner-content > p {
+      font-size: 13px;
+      line-height: 20px;
+      margin: 0;
+      padding: 0;
+    }
+    .fuelcomp-banner-content > p > button.myBtn,
+    .fuelcomp-value > span {
+      font-size: 12px;
+    }
+    .fuelcomp-bonus-bottom-offer > p,
+    .fuelcomp-bonus-bottom-offer > p > button.myBtn {
+      font-size: 8px;
+    }
+    .fuelcomp-cardBody {
+      display: flex;
+      align-items: center;
+      width: 100%;
+      margin-right: 0;
+      flex-direction: column;
+    }
+    .fuelcomp-ratingsWrapper {
+      position: absolute;
+      left: 0;
+      transform: translate(0, 105px);
+      gap: 0;
+      width: 445px;
+    }
+    .fuelcomp-cardBonusTitle p {
+      font-size: 20px;
+      height: 96px;
+      position: relative;
+      transform: translate(-8%, 15px);
+    }
+    .fuelcomp-cardBonusTitle p::before {
+      content: "";
+      position: absolute;
+      width: 696px;
+      height: 1px;
+      background: #c9c2c2;
+      left: unset;
+      top: 79px;
+      right: -83px;
+    }
+    .fuelcomp-logoWrapper {
+      height: 95px;
+      border-bottom: 1px solid #000;
+      width: 50%;
+    }
+    .fuelcomp-cardBonusTitle p > span {
+      font-size: 20px;
+      font-weight: 700;
+    }
+    .fuelcomp-btnCard {
+      font-size: 13px;
+      width: 100%;
+      height: 44px;
+      top: -18px;
+      min-width: 200px;
+      transform: translateX(50px);
+    }
+    .fuelcomp-review-grid {
+      width: 190px;
+    }
+    .fuelcomp-list-text > h3,
+    .fuelcomp-rating-star > ul > li {
+      font-size: 14px;
+    }
+    .fuelcomp-value,
+    h2.fuelcomp-servicesTitle {
+      font-size: 20px;
+    }
+    .fuelcomp-bonus-bottom-offer,
+    .fuelcomp-disclaimer {
+      margin-bottom: 15px;
+    }
+    .fuelcomp-servicesContext {
+      padding: 15px;
+      border-radius: 0;
+    }
+    p.fuelcomp-wrapper-p {
+      font-size: 13px;
+      line-height: 20px;
+      margin: 15px 0 25px;
+    }
+    .fuelcomp-list-text > p {
+      font-size: 12px;
+      padding: 8px 0;
+      margin: 0;
+      line-height: 17px;
+    }
+    .fuelcomp-listIconWrap {
+      gap: 8px;
+      margin-bottom: 20px;
+      padding: 6px;
+    }
+    .fuelcomp-iconPhoto {
+      min-width: 50px;
+      height: 46px;
+    }
+    .fuelcomp-iconPhoto > img {
+      width: 32px;
+      height: 32px;
+      transform: translateY(-16px);
+    }
+    .fuelcomp-list-table {
+      padding: 20px 0;
+    }
+    .fuelcomp-aboutText {
+      border-radius: 0;
+      padding: 15px;
+      margin: 0 0 30px;
+    }
+    .fuelcomp-aboutText > h2 {
+      font-size: 20px;
+      margin: 10px 0 8px;
+    }
+    .fuelcomp-aboutText > h3 {
+      font-size: 15px;
+      margin: 15px 0 0;
+    }
+    .fuelcomp-three-OfferCardWrap {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: unset;
+      gap: 20px;
+      width: 100%;
+      padding: 0;
+      flex-direction: column;
+    }
+    .fuelcomp-topThree {
+      padding-bottom: 30px;
+    }
+    .fuelcomp-footer {
+      padding: 30px 10px;
+    }
+    .fuelcomp-footer-link > p {
+      margin: 12px 0;
+    }
+    .fuelcomp-footer-link > ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      text-align: left;
+    }
+    .fuelcomp-copyright {
+      font-size: 13px;
+      line-height: 16px;
+      padding-top: 0;
+      padding-bottom: 0;
+      margin: 0;
+      word-spacing: 0px;
+    }
+    .fuelcomp-copyright > p {
+      padding: 0;
+      margin: 0;
+    }
+    footer img.fuelcomp-footer-ico {
+      max-width: 140px;
+    }
+    h2.fuelcomp-sub-title {
+      font-size: 24px;
+    }
+    .fuelcomp-subpages-context > h5 {
+      font-size: 14px;
+      padding: 8px 0;
+    }
+    .fuelcomp-subpages-context > p {
+      font-size: 13px;
+      font-weight: 300;
+      line-height: 20px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+    }
+  }
+  @media only screen and (max-width: 360px) and (min-width: 300px) {
+    .fuelcomp-review-grid {
+      width: 88px !important;
+    }
+    .fuelcomp-btnCard {
+      height: 32px !important;
+      font-size: 11px !important;
+    }
+    .fuelcomp-rating-star > ul > li {
+      font-size: 12px !important;
+    }
+    .fuelcomp-cardBonusTitle p {
+      height: 105px;
+      font-size: 16px !important;
+      transform: translate(-18%, 10px) !important;
+    }
+    .fuelcomp-logoImg img {
+      width: 158px !important;
+    }
+    .fuelcomp-cardBonusTitle p::before {
+      right: -4px !important;
+    }
+    .fuelcomp-banner-content > h1 {
+      font-size: 25px !important;
+      margin: 0;
+    }
+    .fuelcomp-disclaimer > p,
+    .fuelcomp-trust-card > p {
+      font-size: 8px !important;
+    }
+    .fuelcomp-disclaimer > p {
+      line-height: 7px !important;
+      padding: 2px 0 6px;
+    }
+  }
+  @media only screen and (max-width: 395px) and (min-width: 300px) {
+    .fuelcomp-banner-content > h1 {
+      font-size: 27px;
+      margin: 0;
+    }
+    body::before {
+      background: linear-gradient(
+        109.6deg,
+        rgb(0 0 0 / 83%) 11.2%,
+        rgba(8, 8, 8, 0.781) 51.2%,
+        rgb(0 0 0 / 86%) 98.6%
+      );
+    }
+    .fuelcomp-cardBonusTitle p::before {
+      content: "";
+      position: absolute;
+      width: 100%;
+      height: 1px;
+      background: #c9c2c2;
+      left: unset;
+      top: 78px;
+      right: -4px;
+    }
+    .fuelcomp-review-title {
+      font-size: 13px;
+    }
+    .fuelcomp-trust-card > img {
+      width: 24px;
+    }
+    .fuelcomp-trust-card > p {
+      font-size: 9px;
+    }
+    .fuelcomp-disclaimer > p {
+      font-size: 9px;
+      line-height: 8px;
+      padding: 2px 0 6px;
+    }
+    .fuelcomp-cardBonusTitle p {
+      font-size: 17px;
+      transform: translate(-14%, 10px);
+    }
+    .fuelcomp-cardBonusTitle {
+      width: 100%;
+      min-width: 155px;
+    }
+    .fuelcomp-cardBonusTitle p > span {
+      font-size: 18px;
+    }
+    .fuelcomp-trust-card {
+      gap: 4px;
+    }
+    .fuelcomp-review-grid {
+      width: 94px;
+    }
+    .fuelcomp-btnCard {
+      font-size: 13px;
+      width: 100%;
+      height: 40px;
+      top: -18px;
+      min-width: fit-content;
+      transform: translate(-5%, 0);
+      padding: 0 10px;
+    }
+    .fuelcomp-logoImg img {
+      width: 170px;
+    }
+  }
+  
+  @media only screen and (max-width: 392px) and (min-width: 361px) {
+    .fuelcomp-cardBonusTitle p {
+        font-size: 17px;
+        transform: translate(-15%, 10px) !important;
+        width: 162px !important;
+    }
+  }
